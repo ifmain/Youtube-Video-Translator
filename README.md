@@ -17,8 +17,9 @@ This project offers a comprehensive solution for downloading, splitting, transla
 To set up this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/ifmain/Youtube-Video-Translator
+cd Youtube-Video-Translator
+sudo apt-get install ffmpeg
 pip install -r requirements.txt
 ```
 
