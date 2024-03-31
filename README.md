@@ -49,4 +49,5 @@ Contributions are welcome! If you have suggestions for improving this project, f
 
 ## License
 
-This project is licensed under the Apache License 2.0. For more details, see the official [license text](https://www.apache.org/licenses/LICENSE-2.0).
+This project is licensed under the Apache License Version 2.0. For more information, see the `LICENSE` file in this repository.
+
